@@ -1,0 +1,12 @@
+sami,mamdouh,handasa,alex,5459756
+adel,amr,15 geleem street,alexandria,5471287
+Ahmed,mohamed,73 saraya street,Alexandria,5893821
+Gaser,Mahmoud,74 france street,Alexandria,4897263
+Hassan,mohamed,99 tram street,Alexandria,4897622
+Khaled,ahmed,15 yahia street,Alexandria,5876322
+Mahmoud,Ahmed,26 Elhoreya Street,Alexandria,4876321
+Mohamed,omar,14 ramadan street,Alexandria,5463721
+Omar,ali,89 ekbal street,Alexandria,5872615
+Sherif,amr,87 lageteeh street,Alexandria,5987632
+Yusef,mahmoud,57 fawzy moaz street,Alexandria,4265322
+yusef,mahmoud,67 louran street,alexandria,5873296
